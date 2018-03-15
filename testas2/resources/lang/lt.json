@@ -1,0 +1,15 @@
+{
+    "Date": "Data",
+    "Number": "Numeris",
+    "Add new Radar record": "Pridėti naują Radaro įrašą",
+    "distance": "Atstumas (m)",
+    "time": "Laikas (s)",
+    "Speed": "Greitis (km/h)",
+    "Name": "Vardas",
+    "Creator": "Sukure",
+    "Updator": "Modifikavo",
+    "Created_at": "Sukurta",
+    "Updated_at": "Modifikuota",
+    "driver_id": "Vairuotojo id",
+    "user_id": "naudotojo id"
+    }

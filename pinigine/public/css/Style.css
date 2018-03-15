@@ -1,0 +1,41 @@
+#footer{
+   
+   left: 0;
+   padding-bottom:0.5rem;
+   padding-top:0.5rem;
+   width: 100%;
+ 
+   color: white;
+   background-color: rgb(83, 100, 119);
+   text-align: center;
+   
+}
+           
+#back {
+    height: 200px;
+    background-image: url("");
+    background-size: 5440px 1352px;
+    background-color: #ffff;
+}
+.cntr, .img-responsive{
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin:0 auto;
+    margin-bottom: 2rem;
+}
+.space{  
+    padding-top:1rem;
+}
+
+body {
+    background-color:#ffff;
+}
+.gal{
+    margin:0;
+    margin-top: 0.2rem;
+    
+}
+#brd{
+    border: none;
+}
