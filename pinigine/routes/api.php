@@ -16,3 +16,17 @@ use Illuminate\Http\Request;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+//List gallery files name api
+Route::get('gallery', 'GalleryController@index');
+
+//List single
+Route::get('gallery/{id}', 'GalleryController@show');
+
+//List create
+Route::post('gallery', 'GalleryController@store');
+
+//List upadte
+Route::put('gallery/{id}', 'GalleryController@store');
+
+Route::delete('gallery/{id}', 'GalleryController@destroy');
